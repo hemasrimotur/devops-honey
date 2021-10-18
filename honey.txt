@@ -2,3 +2,4 @@ taj mahal is very beautiful
 it is easy
 mango is very sweet
 git is open source
+git is a tool
